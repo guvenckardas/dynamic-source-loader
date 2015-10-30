@@ -1,0 +1,15 @@
+{
+  "name": "gKardas-dynamic-source-loader",
+  "version": "1.0.0",
+  "description": "external css and js source loader controller",
+  "main": "source-loader-controller.js",
+  "dependencies": {
+    "grunt-cli": "^0.1.13"
+  },
+  "devDependencies": {
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-uglify": "0.6.0"
+  },
+  "author": "gKardas",
+  "license": "MIT"
+}
